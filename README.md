@@ -37,9 +37,5 @@ To set up the database:
 2.  Open the project's `.sln` file in **Visual Studio**.
 3.  Build and run the project.
 
-### Default Login Credentials
 
-For initial access, use the following hardcoded credentials:
--   **Username**: `Admin`
--   **Password**: `Password`
 
